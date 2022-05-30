@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Non-overlapping Intervals", "Non-overlapping Intervals\Non-overlapping Intervals.csproj", "{8680293D-CCCF-49C7-853A-0D0D6D257C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8680293D-CCCF-49C7-853A-0D0D6D257C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8680293D-CCCF-49C7-853A-0D0D6D257C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8680293D-CCCF-49C7-853A-0D0D6D257C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8680293D-CCCF-49C7-853A-0D0D6D257C47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28287E62-619A-4B08-9117-EF12F4D31F41}
+	EndGlobalSection
+EndGlobal
